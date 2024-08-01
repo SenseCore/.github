@@ -12,3 +12,5 @@
 -->
 
 建设高效率、低成本、规模化的 AI 云基础设施，打造专业的深度学习平台及算法模型体系，引领AI创新，助力工业界及学术界探索 AI 边界。
+
+Build a high-efficiency, low-cost, and large-scale Al cloud infrastructure, create a professional deep learning platform and algorithm model system, lead Al innovation, and help the industry and the academia explore the boundaries of Al
